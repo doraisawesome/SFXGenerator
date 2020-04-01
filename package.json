@@ -1,0 +1,25 @@
+{
+  "name": "sfxgenerator",
+  "version": "1.0.0",
+  "description": "Create new sfx by combining old sfx",
+  "main": "loadAudio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doraisawesome/SFXGenerator.git"
+  },
+  "keywords": [
+    "max"
+  ],
+  "author": "Wen Du",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doraisawesome/SFXGenerator/issues"
+  },
+  "homepage": "https://github.com/doraisawesome/SFXGenerator#readme",
+  "dependencies": {
+    "max-api": "^2.0.0"
+  }
+}
