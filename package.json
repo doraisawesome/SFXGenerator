@@ -19,7 +19,5 @@
     "url": "https://github.com/doraisawesome/SFXGenerator/issues"
   },
   "homepage": "https://github.com/doraisawesome/SFXGenerator#readme",
-  "dependencies": {
-    "max-api": "^2.0.0"
-  }
+  "dependencies": {}
 }
