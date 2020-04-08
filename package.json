@@ -19,5 +19,6 @@
     "url": "https://github.com/doraisawesome/SFXGenerator/issues"
   },
   "homepage": "https://github.com/doraisawesome/SFXGenerator#readme",
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {}
 }
